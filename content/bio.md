@@ -4,4 +4,4 @@ Previously, I received my B.S. in Mechanical Design, Manufacturing and Automatio
 
 My research lies at the intersection of **Robotics** and **Sensors**. I am also interested in **Electronic Skin**, **Computer Vision**, and **Embodied Robotics**.
 
-If you are interested in research opportunities or collaborations, feel free to reach out at **imliwenhuang@126.com**.
+If you are interested in research opportunities or collaborations, feel free to reach out at **liwenhuang@hkust-gz.edu.cn**.
